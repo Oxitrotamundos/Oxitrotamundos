@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on Open Scource project
 //- 📫 How to reach me ...
 
-![Lenguajes más usados](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Oxitrotamundos)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oxitrotamundos&theme=transparent)
