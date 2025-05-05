@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Oxitrotamundos
 - 👀 I’m interested in videogames
-- 🌱 I’m currently learning ...C#
+- 🌱 I’m currently learning ...Ts
 - 💞️ I’m looking to collaborate on Open Scource project
 //- 📫 How to reach me ...
 
